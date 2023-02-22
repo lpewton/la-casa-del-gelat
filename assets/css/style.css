@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap');
+
 /*Header*/
 
 * {
     margin: 0;
     padding: 0;
     border: 0;
+    font-family: 'Raleway', sans-serif;
 }
 
 #header-img-div {
@@ -24,9 +27,30 @@
 
 footer {
     height: 3em;
-    font-size: large;
+    font-size: 1.2em;
 }
 
-footer > div {
+#footer-div {
     padding-top: 1em;
+}
+
+/*Home*/
+
+#home-body {
+    background-image: url("../images/home-body-img.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+
+#home-headers {
+    padding-top: 11em;
+    color: rgb(78, 55, 53);
+}
+
+#home-h1 {  
+    font-size: 5em;
+}
+
+#home-h2 {
+    font-size: 3em;
 }
