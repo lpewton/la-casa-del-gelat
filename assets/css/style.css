@@ -16,10 +16,12 @@
     width: 100%;
 }
 
-#man-making-img {
+#all-ice-creams-img {
     border-radius: 50%;
 }
 
-#all-ice-creams-img {
-    border-radius: 50%;
+/*Footer*/
+
+footer {
+    height: 5em;
 }
