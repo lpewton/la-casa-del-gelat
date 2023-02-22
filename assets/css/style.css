@@ -10,9 +10,8 @@
 }
 
 #header-img-div {
-    height: 250px;
+    height: 20em;
     overflow: hidden;
-
 }
 
 #header-img {
@@ -53,4 +52,8 @@ footer {
 
 #home-h2 {
     font-size: 3em;
+}
+
+#qui-som-img {
+    width: 45vw;
 }
