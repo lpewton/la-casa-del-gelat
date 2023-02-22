@@ -23,5 +23,10 @@
 /*Footer*/
 
 footer {
-    height: 5em;
+    height: 3em;
+    font-size: large;
+}
+
+footer > div {
+    padding-top: 1em;
 }
