@@ -26,7 +26,7 @@
 
 footer {
     height: 3em;
-    font-size: 1.2em;
+    font-size: 80%;
 }
 
 #footer-div {
@@ -56,4 +56,11 @@ footer {
 
 #qui-som-img {
     width: 45vw;
+}
+
+/*Media queries*/
+@media screen and (max-width: 500px) {
+    #header-img-div {
+        height: 6em;
+    }  
 }
