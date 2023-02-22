@@ -1,0 +1,25 @@
+/*Header*/
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#header-img-div {
+    height: 250px;
+    overflow: hidden;
+
+}
+
+#header-img {
+    width: 100%;
+}
+
+#man-making-img {
+    border-radius: 50%;
+}
+
+#all-ice-creams-img {
+    border-radius: 50%;
+}
